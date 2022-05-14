@@ -80,8 +80,8 @@
 			stroke-miterlimit="10"
 		/></svg
 	>
-	<a href="#anasayfa">Anasayfa</a>
-	<a href="#blog">Blog</a>
+	<a href="/">Anasayfa</a>
+	<a href="/blog">Blog</a>
 </nav>
 
 <style>
