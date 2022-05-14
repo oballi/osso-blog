@@ -87,24 +87,22 @@
 <style>
 	nav {
 		background: #eeebf5;
-        display: flex;
-        align-items: center;
+		display: flex;
+		align-items: center;
+		position: sticky;
 	}
-	nav a ,
-    nav svg{
+	nav a,
+	nav svg {
 		line-height: 50px;
 		display: inline-block;
 		padding: 0 20px;
 		color: rgb(72, 70, 70);
-        transition: .1s ;
+		transition: 0.1s;
 	}
 
-    nav a:hover {
-        font-weight: 500;
-        color: #231F20;
-        transition: .1s;
-
-    }
-  
-    
+	nav a:hover {
+		font-weight: 500;
+		color: #231f20;
+		transition: 0.1s;
+	}
 </style>
