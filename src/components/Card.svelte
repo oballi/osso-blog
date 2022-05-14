@@ -3,7 +3,7 @@
     console.log(posts)
 </script>
 <div class="container">
-    {#each posts as post (post.id)}
+    {#each posts as post (post.id) }
 
         <div class="card-container">
             <div class="card">
@@ -60,7 +60,7 @@
         transition: 0.5s;
     }
 
-<<<<<<< HEAD
+
 	.card-footer button:hover,
 	.card-footer button:focus {
 		background-color: #e7eee9;
@@ -69,11 +69,11 @@
 		box-shadow: 0 0.5em 0.5em -0.4em #e7eee9;
 		transform: translateY(-0.25em);
 	}
-=======
+
     .card-footer button:hover {
         background-color: #e7eee9;
         transition: 0.5s;
         border: 1px solid #e7eee9;
     }
->>>>>>> 69f6927734df7c7d8de97d9180944f558aab06ee
+
 </style>
