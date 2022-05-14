@@ -4,7 +4,7 @@
 
 <div>
     <section>
-Bu Bir Card seda degistirdi
+Bu Bir Card seda degistirdi - Şimdi ömer değiştirdi.
     </section>
 </div>
 
