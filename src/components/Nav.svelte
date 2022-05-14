@@ -90,6 +90,7 @@
 		display: flex;
 		align-items: center;
 		position: sticky;
+		top: 0;
 	}
 	nav a,
 	nav svg {
