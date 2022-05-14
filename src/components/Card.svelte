@@ -4,7 +4,7 @@
 
 <div>
     <section>
-Bu Bir Card
+Bu Bir Card seda degistirdi
     </section>
 </div>
 
